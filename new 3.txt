@@ -17,11 +17,7 @@ kavya.venugopal
 DevOps
 
 
-Git hub token
-
-
-
-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
+Git hub toke
 
 
 
@@ -80,4 +76,3 @@ git clone https://github.com/kavyabyDEVOPS/devops_repo.git
 
 
 
-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
